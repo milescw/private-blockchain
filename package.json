@@ -1,0 +1,16 @@
+{
+  "name": "project_2",
+  "version": "1.0.0",
+  "description": "Private Blockchain project",
+  "main": "simpleChain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "C. Miles",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "level": "^4.0.0",
+    "run-func": "^1.0.2"
+  }
+}
